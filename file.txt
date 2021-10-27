@@ -1,0 +1,1138 @@
+1020.5 M  /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_mid_article_info
+1018.6 K  /user/datahome/hive_db/datahome.db/edm_fact_product_app_summary_d
+1015.8 K  /user/datahome/hive_db/datahome.db/result_jiacx
+1012.8 M  /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_summary_h
+1004.6 K  /user/datahome/hive_db/datahome.db/edw_dim_hybase_hot_point_status_info_gaoyy
+997.6 M   /user/datahome/hive_db/datahome.db/ods_parquerst_test_wxg
+997.6 K   /user/datahome/hive_db/datahome.db/ods_fact_mushu_check_article
+988.8 M   /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appcustomvisitormapping_dg
+988.2 M   /user/datahome/hive_db/datahome.db/usersim_join_20190402
+972.4 K   /user/datahome/hive_db/datahome.db/edm_xg_tmy_wx_article_summary_1d
+967.4 K   /user/datahome/hive_db/datahome.db/edm_fact_tmy_tenant_summary_w
+966.7 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_m
+955.9 M   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_article_video
+946.5 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_d_stage
+942.8 K   /user/datahome/hive_db/datahome.db/edw_dim_cs_cangnan_pstffs_group_info
+930.3 M   /user/datahome/hive_db/datahome.db/ods_dim_hybase_mlf_product_formal_20160511_digital_newspaper
+925.0 G   /user/datahome/hive_db/datahome.db/ods_dim_mcn_ugc_article
+910.8 K   /user/datahome/hive_db/datahome.db/edw_dim_cs_cangnan_pstffs_school_info
+901.4 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_w
+896.3 K   /user/datahome/hive_db/datahome.db/ods_dim_zbjt_active_account_group_article_summary_d
+895.5 K   /user/datahome/hive_db/datahome.db/edm_fact_tmy_web_product_summary_d
+873.1 M   /user/datahome/hive_db/datahome.db/ods_fact_dc_xb_rank
+870.4 K   /user/datahome/hive_db/datahome.db/ods_dim_weixin_wci_data
+865.5 M   /user/datahome/hive_db/datahome.db/ods_dim_comment_system_comment_info_stage
+864.5 M   /user/datahome/hive_db/datahome.db/tmp_dim_wangmai_appdevicemapping
+862.4 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_cfbonusers_table_1_11
+858.4 M   /user/datahome/hive_db/datahome.db/ods_fact_24news_user_read_log
+848.1 M   /user/datahome/hive_db/datahome.db/edm_fact_24news_nearline_recommend_article_score_h
+845.3 M   /user/datahome/hive_db/datahome.db/edm_fact_xb_article_fx_w
+841.6 M   /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_forward_di
+828.3 K   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_info
+826.3 K   /user/datahome/hive_db/datahome.db/edm_fact_xb_account_summary_m
+824.3 K   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_ugc_article_info_stage
+824       /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_product_summary_h
+819.6 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_w
+809.2 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_account_summary_d
+797.3 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weibo_account_summary_w
+796.3 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_m
+788.8 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_suanfa_cheshi_zzb
+779.9 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_log_device_article_summary_h_filter
+770.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_1d
+769.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_m
+759       /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_channel_summary_h
+749.2 M   /user/datahome/hive_db/datahome.db/ods_tmy_xwcmidmapping_df
+748.2 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_m
+737.5 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_mcn_topline_article_summary_m
+737.4 K   /user/datahome/hive_db/datahome.db/edw_dim_tmxw_nearline_article_info_stage
+736.1 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_mcn_topline_article_summary_w
+733.2 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_eventtype_summary_1d
+723.0 K   /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_index_setting_info
+721.0 M   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_account_info_zzb
+712.3 M   /user/datahome/hive_db/datahome.db/ods_wangmai_bas3_cvevent_temp
+710       /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_alsmodel_metrics
+705.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_w
+693.4 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_channel_summary_w
+690.8 G   /user/datahome/hive_db/datahome.db/ods_dim_comment_system_comment_info
+687.0 M   /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_mid_article_info_stage
+686.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_alsmodel_gaoyy_20190403
+686       /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_6
+684.4 K   /user/datahome/hive_db/datahome.db/ods_24news_department_df
+684.3 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_device_gender_age_article_summary_30d
+681.7 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_summary_h
+681.4 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_live_summary_m
+672.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_live_summary_m
+670.0 K   /user/datahome/hive_db/datahome.db/ods_dim_date_info
+659.7 M   /user/datahome/hive_db/datahome.db/edw_fact_24news_user_article_summary_d
+653       /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_m_dg
+641.3 K   /user/datahome/hive_db/datahome.db/ods_dim_comment_system_comment_info_stage_gaoyy
+634.2 G   /user/datahome/hive_db/datahome.db/ods_dim_24news_article
+633.3 M   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmuser
+629.9 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_nearline_article_score_h
+626.1 K   /user/datahome/hive_db/datahome.db/dws_wx_account_1d
+624.8 K   /user/datahome/hive_db/datahome.db/edm_dim_zjxw_rs_user_umber_table_1_11
+594.1 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_live_summary_m
+594.1 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_1d
+588.8 K   /user/datahome/hive_db/datahome.db/dim_cfmc_tmy_article_info_mi
+573.1 K   /user/datahome/hive_db/datahome.db/edm_cs_fusion_media_article_mi
+569.0 K   /user/datahome/hive_db/datahome.db/edm_fact_recommend_zjxw_cfbasedoninteresttag_info_h
+565.4 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_download_channel_system_summary_w
+554.2 M   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchannel
+543.6 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_donwload_channel_systype_summary_7d_dg
+539.4 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_device_gender_age_article_summary_30d
+537.3 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_funnel_summary_1d
+536.5 K   /user/datahome/hive_db/datahome.db/ods_tmy_wcmdocument_df_stage
+535.5 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_download_channel_systype_summary_1d_dg
+535.1 G   /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_log_di
+532.9 K   /user/datahome/hive_db/datahome.db/ods_dim_cs_report_ded_original_article_detail_list
+531.4 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_download_channel_systype_summary_1d_dg
+530.3 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_article_score_info
+523.4 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_group_summary_m_stage
+522.9 K   /user/datahome/hive_db/datahome.db/ods_fact_mushu_spread_power_score_m_5
+520       /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_zjxw_summary_m
+518.4 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_rs_alsmodel
+510.5 K   /user/datahome/hive_db/datahome.db/edm_fact_tmy_big_screen_tenant_summary_d
+505.6 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_1d_dg
+500.4 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_department_summary_w
+486.9 K   /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_nearline_column_info
+484.6 M   /user/datahome/hive_db/datahome.db/ods_fact_24news_duiba_orders
+482.4 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_article_summary_7d
+481.6 M   /user/datahome/hive_db/datahome.db/edm_fact_dds_article_summary_m
+481.6 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_summary_1d
+477.4 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_checksystem_group_summary_m_stage
+476.3 K   /user/datahome/hive_db/datahome.db/edm_fact_mujing_project_summary_30d
+474.8 M   /user/datahome/hive_db/datahome.db/ods_fact_24news_reporter_help_detail
+470.6 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_download_channel_systype_summary_3d_dg
+470       /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_result_stage_m
+468.5 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_download_channel_systype_summary_3d_dg
+467.5 M   /user/datahome/hive_db/datahome.db/ods_fact_wangmai_bas3_cvevent_gaoyy_20190513
+464.6 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_tag_content_region
+462.5 M   /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_comment_di
+457.3 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_channel_summary_w
+454.4 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_school_summary_m
+452.4 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_w
+452.2 K   /user/datahome/hive_db/datahome.db/edm_fact_mujing_project_summary_7d
+450.9 M   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_client_session_info_zzb
+449.4 M   /user/datahome/hive_db/datahome.db/ods_tmy_xwcmcommuser_df
+446.6 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_help_group_summary_d
+445.4 M   /user/datahome/hive_db/datahome.db/ods_fact_zjxw_rank_record
+441.0 K   /user/datahome/hive_db/datahome.db/edm_fact_recommend_zjxw_basedoninteresttag_info_h
+437.6 K   /user/datahome/hive_db/datahome.db/dim_cfmc_mcn_article_info_mi
+419.4 K   /user/datahome/hive_db/datahome.db/ods_fact_xsb_mujing_tenant_summary
+417.1 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_1d_dg
+411.2 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_rs_nearline_account_social_relation_h
+410.2 K   /user/datahome/hive_db/datahome.db/ods_fact_24news_nearline_user_read_log
+409.7 K   /user/datahome/hive_db/datahome.db/edm_fact_mujing_project_summary_d
+409.7 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_user_action_log_filter
+408.8 M   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_article_distinct
+398.3 K   /user/datahome/hive_db/datahome.db/ods_fact_yg_cate_index
+397.0 G   /user/datahome/hive_db/datahome.db/ods_fact_tmxw_log
+392.4 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_cloud_weixin_account_article_summary_d
+391.9 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatablewebsite
+384.2 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_1d_dg
+383.7 G   /user/datahome/hive_db/datahome.db/ods_fact_wangmai_web_log
+383.3 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_article_summary_m
+382.3 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_zjxw_article_summary_d
+382.0 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_rs_nearline_article_score_h
+381.3 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_server_summary_w
+379.8 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_article_summary_w
+379.4 M   /user/datahome/hive_db/datahome.db/ods_dim_24news_reporter_info
+379.3 M   /user/datahome/hive_db/datahome.db/ods_fact_cs_report_cas_assessment
+374.8 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_1d_dg
+372.5 K   /user/datahome/hive_db/datahome.db/ods_tmxw_active_mic_lottery_di
+372.3 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_rs_nearline_article_score_h_gaoyy_3day
+370.0 K   /user/datahome/hive_db/datahome.db/edm_dim_zjxw_rs_article_umber_table_1_11
+367.7 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_cfbonusers_d
+366.8 M   /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_comment_di
+363.0 M   /user/datahome/hive_db/datahome.db/edm_fact_24news_column_summary_h
+362.7 M   /user/datahome/hive_db/datahome.db/edm_fact_dds_article_summary_w
+361.2 G   /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_ua_di
+358.1 G   /user/datahome/hive_db/datahome.db/ods_mlf2_wcmmetatablepaper_df
+354.5 M   /user/datahome/hive_db/datahome.db/ods_ypt_op_tmu_third_material_df
+354.3 G   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_content
+354.1 M   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_push_notify
+354.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_article_keywords_info
+350.3 K   /user/datahome/hive_db/datahome.db/dim_cs_12pm_share_article_info_di
+349.1 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_summary_d
+347.4 G   /user/datahome/hive_db/datahome.db/ods_tmy_wcmmetatablepaper_df
+344.4 G   /user/datahome/hive_db/datahome.db/ods_fact_dc_xb_article_total
+343.6 M   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmuser_2_0
+342.7 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_m
+341.7 M   /user/datahome/hive_db/datahome.db/edm_fact_dds_article_summary_d
+341.2 K   /user/datahome/hive_db/datahome.db/edm_fact_product_article_propagation_summary_m_4
+338.1 M   /user/datahome/hive_db/datahome.db/edw_fact_dc_wx_article_summary_d
+337.0 K   /user/datahome/hive_db/datahome.db/edm_dds_product_summary_1w
+336.9 G   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_user_action_log_history
+336.3 G   /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_article_info
+334.3 K   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_article_h
+333.4 G   /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_log_di
+333.3 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_3d_dg
+331.4 M   /user/datahome/hive_db/datahome.db/ods_dim_xsb_account_info_stage
+327.2 K   /user/datahome/hive_db/datahome.db/edm_fact_product_article_summary_m_4
+326.8 M   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_alsmodel
+326.1 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatablereleasesource
+325.9 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weixin_account_article_summary_d
+322.9 M   /user/datahome/hive_db/datahome.db/ods_dim_hybase_product_formal_recommend_info_stage
+319.7 K   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_content_current_day
+318.3 G   /user/datahome/hive_db/datahome.db/ods_fact_tmxw_log_stag
+317.5 K   /user/datahome/hive_db/datahome.db/edw_fact_article_score_info
+313.8 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_propagation_summary_5d
+313.3 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_m
+310.2 M   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_client_device_zzb
+308.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_m
+308.5 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_cloud_weixin_account_article_summary_d_xu_test
+301.1 K   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_content_stage
+297.9 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_summary_1d
+293.9 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_h
+293.1 M   /user/datahome/hive_db/datahome.db/edw_dim_zjxw_column_info
+293.1 K   /user/datahome/hive_db/datahome.db/edm_cfmc_propagation_summary_m
+292       /user/datahome/hive_db/datahome.db/ods_industry_black_list_xugz
+283.5 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_cloud_weixin_account_summary_m
+283.4 M   /user/datahome/hive_db/datahome.db/ods_dim_hybase_jtcpg_article_info_gaoyy
+283.4 K   /user/datahome/hive_db/datahome.db/edm_fact_checksystem_office_summary_m_his
+275.9 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_video_summary_m_dg
+274.2 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_1d_dg
+273.5 G   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_user_action_log
+272.5 M   /user/datahome/hive_db/datahome.db/ods_fact_sensors_users_his
+270.4 K   /user/datahome/hive_db/datahome.db/ods_fact_douyin_cs_report_douyin_account_list_m
+269.9 M   /user/datahome/hive_db/datahome.db/ipiptest
+269.1 M   /user/datahome/hive_db/datahome.db/ods_dim_mcn_mcn_user
+263.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_video_summary_m_dg
+262.2 K   /user/datahome/hive_db/datahome.db/edm_fact_tmy_tenant_summary_m
+258.5 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_keywords_weighted
+257.0 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_network_summary_w
+254.5 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_mop_idfa
+252       /user/datahome/hive_db/datahome.db/ods_fact_window_table_test_xugz
+249.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_video_summary_m_dg
+248.8 M   /user/datahome/hive_db/datahome.db/ods_fact_xb_article_fx_history
+248.1 K   /user/datahome/hive_db/datahome.db/ods_tmy_wcmmetatablewebsite_df_stage
+245.4 M   /user/datahome/hive_db/datahome.db/ods_tmy_wcmuser_df
+244.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_m
+238.6 M   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_user_article_keywords_info
+237.7 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_server_summary_m
+235.8 G   /user/datahome/hive_db/datahome.db/edw_dim_tmxw_article_info_df
+232.4 M   /user/datahome/hive_db/datahome.db/edm_fact_dmp_db_order_summary_d
+232.0 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_channel_article_threeday_summary_w
+229.5 K   /user/datahome/hive_db/datahome.db/edm_fact_product_app_summary_w
+223.2 K   /user/datahome/hive_db/datahome.db/ods_dim_cs_report_three_channel_three_type_list_m
+221.5 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_alsmodel
+220.6 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_3d_dg
+218.5 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatableapp
+216.1 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_summary_d
+215.0 K   /user/datahome/hive_db/datahome.db/edm_fact_product_web_summary_d
+214.1 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_school_summary_m_stage
+213.3 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatablereleasesource_2_0
+211.9 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_group_summary_m
+209.9 M   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_account_article_summary_h
+209.8 G   /user/datahome/hive_db/datahome.db/ods_fact_sensors_events_his
+208.9 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_wangmai_check_city_summary_w
+206.6 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_channel_article_threeday_summary_w
+205.5 K   /user/datahome/hive_db/datahome.db/edm_fact_mujing_project_summary_current_day
+204.7 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weibo_account_summary_m
+201.3 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_1d_dg
+200.9 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatableapp_2_0
+200.4 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_m
+199.2 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_download_channel_systype_summary_1d
+199.0 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_3d_dg
+196.5 G   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchnldoc_2_0
+195.9 M   /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_metadata
+195.6 K   /user/datahome/hive_db/datahome.db/edw_fact_24news_nearline_article_summary_h
+194.8 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_sailing_cfbonusers_d
+194.3 G   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_3d
+192.2 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_4
+191.5 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_3d
+191.4 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_reply_user_summary_d
+191.0 M   /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_user_keywords_weighted
+185.4 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_channel_article_threeday_summary_w
+184.6 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_city_summary_w
+184.3 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_1d_dg
+183.4 M   /user/datahome/hive_db/datahome.db/ods_dim_24news_user_column_relation
+183.3 K   /user/datahome/hive_db/datahome.db/ods_fact_douyin_cs_report_douyin_video_list_w_stage
+182.5 M   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchannel_2_0
+182.4 M   /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_like_di
+181.2 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_channel_summary_m
+180.2 G   /user/datahome/hive_db/datahome.db/edw_fact_mcn_zjxw_article_summary_d
+180.0 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_1d_dg
+178.7 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_1d_dg
+177.2 M   /user/datahome/hive_db/datahome.db/ods_lzt_tmp
+176.9 M   /user/datahome/hive_db/datahome.db/edw_dim_mlf_article_info
+176.7 M   /user/datahome/hive_db/datahome.db/dwd_wx_article_summry_di
+176.0 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_m
+176.0 K   /user/datahome/hive_db/datahome.db/edm_fact_tmy_app_product_summary_w
+174.7 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_11
+173.5 M   /user/datahome/hive_db/datahome.db/edm_fact_xb_list_data_d
+171.1 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_m
+170.6 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_1d_dg
+170.3 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_tag_interesting_h
+170.0 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_1d_dg
+169.9 K   /user/datahome/hive_db/datahome.db/ods_dim_cs_report_new_media_product_detail_list
+169.5 G   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_client_session_info
+169.1 K   /user/datahome/hive_db/datahome.db/edm_fact_mcn_zjxw_sailing_summary_m_stage
+168.9 G   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_client_session_info
+167.8 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxx_device_rfm_summary_0813_tmp
+167.8 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxx_device_rfm_summary_0813
+167.1 G   /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_content
+166.2 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_download_channel_systype_summary_3d
+165.8 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_article_like
+165.4 M   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_nearline_channel_article_info
+165.2 M   /user/datahome/hive_db/datahome.db/tmp_dim_wangmai_appcustomvisitormapping
+164.7 M   /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appcommondevicemapping_dg
+164.2 M   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_admin_user
+163.7 K   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_article_score_info
+162.8 M   /user/datahome/hive_db/datahome.db/ods_dim_qndxx_account_info
+162.6 G   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_account_info
+161.3 M   /user/datahome/hive_db/datahome.db/ods_fact_24news_article_statstic_daily
+161.1 M   /user/datahome/hive_db/datahome.db/ods_24news_user_session
+156.8 K   /user/datahome/hive_db/datahome.db/edm_fact_mcn_zjxw_sailing_summary_w_stage
+156.3 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_sv_rs_tag_content_region
+156.2 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_cfbonusers_table
+153.5 G   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_client_device
+152.3 M   /user/datahome/hive_db/datahome.db/ods_fact_dc_wx_article_total
+151.3 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_log_device_article_summary_h_filter
+151.0 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_article_summary_m_gaoyy
+150.4 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_5
+147.6 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_summary_d_stage
+145.2 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_department_summary_m
+143.6 M   /user/datahome/hive_db/datahome.db/edw_dim_cs_article_info_m
+141.5 M   /user/datahome/hive_db/datahome.db/edw_dim_zjxw_active_account_group_info
+141.0 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_device_article_summary_30d
+140.7 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_9
+140.4 M   /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchnldoc_distinct
+140.1 M   /user/datahome/hive_db/datahome.db/tmp_dim_wangmai_appcommondevicemapping
+139.1 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_alsmodel
+138.7 G   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_account_info
+137.7 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_article_summary_d
+137.5 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_hotwords_summary_1d
+136.9 G   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_1d
+136.0 M   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_account_summary_w
+135.7 M   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_subject
+134.4 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_department_summary_m
+132.2 M   /user/datahome/hive_db/datahome.db/edw_fact_cs_zjxw_article_summary_m
+129.3 K   /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_w_stage
+129.2 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_m_dg
+129.1 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_1d
+128.5 M   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_hotwords_summary_w
+127.2 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_24news_article_summary_d
+124       /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxhd_user_tag_summary_d
+123.6 M   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_columns_info
+123.6 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_2
+123.3 G   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_1d
+123.2 G   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_1d
+122.7 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_alsmodel_training
+121.4 G   /user/datahome/hive_db/datahome.db/edm_fact_24news_article_summary_d
+120.7 M   /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_cfbonusers_table
+119.9 M   /user/datahome/hive_db/datahome.db/ods_fact_cs_content_cloud_tongji_wx_article_summary_tmy
+119.7 K   /user/datahome/hive_db/datahome.db/edm_fact_zjxw_eventtype_summary_w
+118.6 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_10
+117.0 K   /user/datahome/hive_db/datahome.db/edm_fact_tmxw_suanfa_cheshi_zzb
+115.2 K   /user/datahome/hive_db/datahome.db/ods_dim_zjxw_web_link_category
+115.0 K   /user/datahome/hive_db/datahome.db/ods_mushu_spread_power_score_mf
+114.8 K   /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_8
+113.5 K   /user/datahome/hive_db/datahome.db/edm_fact_24news_channel_summary_m
+113.2 M   /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_summary_w
+111.4 M   /user/datahome/hive_db/datahome.db/edm_fact_checksystem_user_summary_m_his
+111.0 G   /user/datahome/hive_db/datahome.db/ods_dim_tmxw_article_content
+110.2 M   /user/datahome/hive_db/datahome.db/ods_dim_mcn_mcn_user_chnl_rel
+110.2 M   /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_group_summary_m_his_gaoyy
+108.5 M   /user/datahome/hive_db/datahome.db/ods_dim_xsb_push_notify
+108.1 G   /user/datahome/hive_db/datahome.db/edm_fact_mcn_article_summary_d
+107.5 M   /user/datahome/hive_db/datahome.db/ods_cs_casma_cas_articleceiresultperformance_mf
+98.5 M    /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_user_article_like
+98.2 M    /user/datahome/hive_db/datahome.db/edw_fact_zjrb_tagoncontent_result
+98.0 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_hotwords_summary_m
+97.4 K    /user/datahome/hive_db/datahome.db/edm_fact_mcn_account_summary_d_stage
+97.2 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_server_summary_m
+96.3 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_3
+95.7 G    /user/datahome/hive_db/datahome.db/dim_mlf_article_df
+95.2 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_alsmodel
+94.8 K    /user/datahome/hive_db/datahome.db/edm_dim_24h_user_fancy_degree_table
+94.6 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_wxb_article_summary_m_6
+94.5 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmmetadatalog_2_0
+92.5 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_client_device
+92.2 M    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_push_notify
+91.6 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_funnel_summary_w
+90.8 M    /user/datahome/hive_db/datahome.db/ods_dim_24news_activity_article_info
+89.2 K    /user/datahome/hive_db/datahome.db/ods_dim_24news_nearline_comments
+88.5 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_reply_user_summary_w
+87.6 M    /user/datahome/hive_db/datahome.db/edm_fact_mcn_account_summary_d
+87.4 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_w_dg
+85.1 G    /user/datahome/hive_db/datahome.db/ods_tmy_wcmdocument_df
+82.7 G    /user/datahome/hive_db/datahome.db/edw_dim_24news_appcustomvisitormapping
+82.3 G    /user/datahome/hive_db/datahome.db/ods_dim_cas_exmediareprint
+82.2 M    /user/datahome/hive_db/datahome.db/edm_fact_rs_article_summary_w
+82.0 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_help_group_summary_w
+81.6 M    /user/datahome/hive_db/datahome.db/ods_fact_weixin_article_total
+81.4 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatablewebsite_2_0
+80.8 K    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_original_fusion_media_reward_list
+80.3 M    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_device_gender_age_tag_info
+80.2 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_column_summary_d
+79.5 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_download_channel_system_summary_m
+78.7 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_article
+77.1 M    /user/datahome/hive_db/datahome.db/ods_dim_24news_user_column_relation_record
+76.6 G    /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_account_article_summary_30d
+76.4 M    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_fan_follow_zzb
+76.1 G    /user/datahome/hive_db/datahome.db/ods_fact_24news_log_his
+75.1 M    /user/datahome/hive_db/datahome.db/ods_fact_casma_propagation_article_info
+74.9 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_w_dg
+74.4 G    /user/datahome/hive_db/datahome.db/ods_dim_xsb_account_info
+74.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_server_summary_d_dg
+73.1 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_web_event_ua_di
+73.0 K    /user/datahome/hive_db/datahome.db/edm_dds_product_summary_1m
+72.8 K    /user/datahome/hive_db/datahome.db/ods_fact_casma_department_completion_info
+72.2 M    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_server_info
+71.7 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_w_dg
+69.2 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_7
+68.3 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_1d_dg
+68.0 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_web_event_read_di
+67.7 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_w_dg
+66.4 M    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_topic_label_info
+66.4 K    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_digital_editor_department_original_article_detail_list
+65.5 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxx_device_rfm_summary_1120
+65.5 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxx_device_rfm_summary
+65.5 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_channel_article_threeday_summary_w_dg
+64.7 M    /user/datahome/hive_db/datahome.db/ods_fact_dc_wx_article_summary
+64.5 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_network_summary_m
+63.4 G    /user/datahome/hive_db/datahome.db/ods_fact_wangmai_web_log_bk
+63.3 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_column_summary_m_gaoyy
+62.8 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_summary_d
+62.5 M    /user/datahome/hive_db/datahome.db/ods_tmxw_active_vote_di
+61.4 K    /user/datahome/hive_db/datahome.db/ods_fact_xb_month_list_data_history
+60.7 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_web_event_read_di
+60.4 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_web_event_ua_di
+59.5 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmfgduser
+59.1 M    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_nearline_red_boat_article
+59.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_wangmai_check_city_summary_m
+58.8 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_county_summary_m
+58.3 M    /user/datahome/hive_db/datahome.db/edm_fact_data_quality_result
+57.8 M    /user/datahome/hive_db/datahome.db/ods_tmxw_active_mic_winners_di
+57.3 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_devicemodel_summary_d
+57.2 M    /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_account_article_summary_h_7
+57.2 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_report_baijia_and_toutiao_article_list
+57.2 G    /user/datahome/hive_db/datahome.db/ods_tmy_wcmmetatablewebsite_df
+56.7 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_read_rating_df
+56.6 G    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_article_summary_7d
+56.1 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_collect_di
+55.9 M    /user/datahome/hive_db/datahome.db/ods_fact_artcile_user_degree_Matrix
+55.6 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_11
+55.3 M    /user/datahome/hive_db/datahome.db/ods_tmxw_active_mic_winning_record_di
+55.2 M    /user/datahome/hive_db/datahome.db/dws_article_cfmc_m
+55.1 M    /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmgrpuser_2_0
+54.9 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_4
+54.3 K    /user/datahome/hive_db/datahome.db/ods_fact_cs_report_article_propagation_detail_5m
+54.2 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_summary_w
+53.9 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_city_summary_m
+53.7 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_w_dg
+53.2 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_metadata
+52.9 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_cloud_weixin_account_article_summary_m
+52.8 K    /user/datahome/hive_db/datahome.db/ods_fact_cs_report_product_user_data_list
+52.7 G    /user/datahome/hive_db/datahome.db/ods_dim_getui_user_tag_info
+52.4 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_register_summary_w
+51.0 K    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_depart_channel_relation_detail_list
+50.5 G    /user/datahome/hive_db/datahome.db/ods_dim_wangmai_cas_inmediapublish
+50.4 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_column_summary_d
+50.4 K    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_article_stage
+49.6 G    /user/datahome/hive_db/datahome.db/ods_fact_ypt_activity_log
+49.5 M    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_ugc_article_info_nli
+49.5 M    /user/datahome/hive_db/datahome.db/edm_fact_rs_article_summary_m
+49.4 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_article_summary_m_8
+49.0 G    /user/datahome/hive_db/datahome.db/ods_dim_24news_comments
+48.9 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_group_info
+48.5 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_cas_inmediapublish
+48.5 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchnldoc
+47.1 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_w_dg
+46.9 M    /user/datahome/hive_db/datahome.db/ods_dim_mlf_reporter_list
+46.6 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_m_dg
+46.6 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_wangmai_check_county_summary_m
+46.4 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_1d_dg
+46.4 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_office_summary_m_stage
+46.3 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weixin_account_article_summary_m
+46.0 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_sailing_tag_content_region
+46.0 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_red_boat_article
+45.9 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_m_dg
+45.0 K    /user/datahome/hive_db/datahome.db/edm_cs_ded_original_article_mi
+44.8 M    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_account_invite_info
+44.7 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_website_summary_d
+44.7 G    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_unread_article_keywords
+44.6 K    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_article_info_current_day
+44.6 G    /user/datahome/hive_db/datahome.db/ods_fact_cs_content_cloud_tongji_wx_article_per_tmy
+44.5 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_1d_dg
+44.3 K    /user/datahome/hive_db/datahome.db/edm_fact_tmy_app_product_summary_m
+43.9 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_like_di
+43.9 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_d_zzb
+43.9 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_ua_di
+43.8 G    /user/datahome/hive_db/datahome.db/edw_dim_tmxw_rs_active_device
+43.7 M    /user/datahome/hive_db/datahome.db/edw_dim_cs_article_info_d
+43.5 M    /user/datahome/hive_db/datahome.db/ods_wangmai_bas_appcommondevicemapping_temp
+43.3 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_zjxw_channel_summary_m
+42.2 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_systype_summary_1d
+42.2 G    /user/datahome/hive_db/datahome.db/ods_fact_zjxw_mop_idfa
+42.0 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_department_propagation_summary_3m
+41.9 M    /user/datahome/hive_db/datahome.db/ods_dim_weixin_article_fx
+41.8 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_5
+41.6 M    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_red_boat_article_stage
+41.5 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_hotwords_summary_d
+41.0 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_9
+40.9 K    /user/datahome/hive_db/datahome.db/edm_fact_product_app_summary_m
+40.7 K    /user/datahome/hive_db/datahome.db/edw_dim_cs_cangnan_pstffs_office_info
+40.2 K    /user/datahome/hive_db/datahome.db/edm_fact_tmy_channel_summary_d
+40.2 G    /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_reptile
+40.2 G    /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_original
+39.9 K    /user/datahome/hive_db/datahome.db/ods_report_county_fusion_media_center_info_mf
+39.8 G    /user/datahome/hive_db/datahome.db/edw_fact_wangmai_web_log
+39.3 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_account_column
+39.3 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_read_di
+39.1 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_summary_w
+39.0 M    /user/datahome/hive_db/datahome.db/ods_fact_mcn_article_classic_rel_mf
+39.0 M    /user/datahome/hive_db/datahome.db/edm_fact_mcn_article_summary_d_stage
+38.8 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_1d_dg
+38.3 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_help_summary_d
+38.0 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_recommend_alsmodel_metrics
+37.9 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_summary_1d_dg
+37.8 M    /user/datahome/hive_db/datahome.db/edm_fact_rs_article_summary_h
+37.6 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_ua_read_di
+37.6 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_channel_summary_m
+37.5 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary
+37.3 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmdocsharerel
+37.3 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_subject_summary_m
+37.3 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_column_summary_m
+37.2 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_school_info
+36.9 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_eventtype_summary_1d_dg
+36.8 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_reply_user_summary_m
+36.7 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_product_summary
+36.4 G    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_summary_d
+36.2 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_hotwords_summary_w
+36.0 M    /user/datahome/hive_db/datahome.db/ods_dim_24news_system_channel
+35.9 M    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_columnclass_column
+35.9 M    /user/datahome/hive_db/datahome.db/ods_dim_weixin_article_fx_yh_all
+35.6 M    /user/datahome/hive_db/datahome.db/ods_dim_hybase_mlf_product_formal_20160511_digital_newspaper_gaoyy
+35.5 G    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_1d
+35.4 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_summary_1d_dg
+35.3 K    /user/datahome/hive_db/datahome.db/edm_fact_product_web_summary_w
+35.3 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_d_zzb
+35.3 G    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_1d
+35.2 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_article_propagation_summary_h
+35.1 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_log_di
+35.0 K    /user/datahome/hive_db/datahome.db/edm_fact_data_quality_result_stage
+34.9 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_w_dg
+34.9 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_article_propagation_detail_5m
+34.8 M    /user/datahome/hive_db/datahome.db/edw_fact_cs_article_cas_inmediapublish_3m
+34.8 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_department_channel_summary_m
+34.5 M    /user/datahome/hive_db/datahome.db/edm_fact_product_article_propagation_summary
+34.0 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmfgduser_2_0
+34.0 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_article_summary_m
+33.9 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmfgd_2_0
+33.7 M    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_short_video_article_keywords_info
+33.4 M    /user/datahome/hive_db/datahome.db/dim_zjxw_active_user_info
+33.1 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_account_summary_m
+32.8 G    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_w
+32.7 M    /user/datahome/hive_db/datahome.db/edm_fact_product_article_summary
+32.2 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_article_propagation_summary_h_history
+32.1 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_product_summary_d
+32.0 M    /user/datahome/hive_db/datahome.db/ods_dim_zbjt_active_account_group_info
+31.9 K    /user/datahome/hive_db/datahome.db/ods_dim_getui_user_tag_code_info
+31.8 G    /user/datahome/hive_db/datahome.db/edm_fact_24h_cfbonusers_table
+31.6 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_ipcounty_summary_m
+31.5 K    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_important_article_category_comment_relation_list_mf_5
+31.3 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary_d
+31.3 G    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_unread_article_info
+31.1 G    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_w
+31        /user/datahome/hive_db/datahome.db/teacher
+30.5 K    /user/datahome/hive_db/datahome.db/ods_fact_weixin_new_department_data
+30.2 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_article_like
+30.2 G    /user/datahome/hive_db/datahome.db/ods_fact_wm_web_log_stg
+30.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_summary_w
+30        /user/datahome/hive_db/datahome.db/user_transform_summary_1d_2
+30        /user/datahome/hive_db/datahome.db/user_transform_summary_1d_1
+30.0 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_live_summary_m_dg
+29.9 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_summary_m
+29.9 K    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_top_media_reward_list
+29.8 M    /user/datahome/hive_db/datahome.db/edw_fact_cs_article_cas_inmediapublish_h
+29.8 G    /user/datahome/hive_db/datahome.db/edm_fact_24news_recommend_alsmodel_tmp
+29.6 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_hotwords_summary_m
+28.9 K    /user/datahome/hive_db/datahome.db/edm_dim_monitor_mlf_channel_info
+28.5 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_cs_article_summary_m_7
+28.4 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_live_summary_m_dg
+28.3 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_live_summary_m_dg
+28.2 G    /user/datahome/hive_db/datahome.db/ods_xsb_log_di
+27.9 M    /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmgroup_2_0
+27.9 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_article_propagation_summary_3m
+27.7 M    /user/datahome/hive_db/datahome.db/ods_fact_wm_app_log
+27.6 M    /user/datahome/hive_db/datahome.db/edm_fact_dds_weixin_article_summary_d
+27.5 K    /user/datahome/hive_db/datahome.db/gaoyy20190327test
+27        /user/datahome/hive_db/datahome.db/user_transform_summary_1d_3
+26.7 M    /user/datahome/hive_db/datahome.db/ods_dim_24h_active_account_group_info
+26.5 M    /user/datahome/hive_db/datahome.db/ods_dim_hybase_product_formal_info
+26.2 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_ua_read_di
+26.0 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_wangmai_propagation_cas_reporters
+26.0 K    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_nearline_channel_info
+26.0 K    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_channel_info
+25.9 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_checksystem_office_summary_m_stage
+25.8 G    /user/datahome/hive_db/datahome.db/ods_fact_wm_web_log
+25.8 G    /user/datahome/hive_db/datahome.db/ods_fact_wangmai_app_log_bk
+25.5 M    /user/datahome/hive_db/datahome.db/ods_check_article_summary_publish_3d_stage
+25.4 M    /user/datahome/hive_db/datahome.db/dws_cs_zjxw_article_mi
+25.0 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_w
+24.9 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_3
+24.3 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_hot_article_rank_info_h
+24.2 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_m_dg
+23.8 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_summary_1d_dg
+23.8 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary_h
+23.8 G    /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_user_unread_article_keywords
+23.7 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_help_summary_w
+23.7 K    /user/datahome/hive_db/datahome.db/ods_fact_cs_report_app_user_detail_list
+23.7 G    /user/datahome/hive_db/datahome.db/ods_tmy_wcmmetatableapp_df
+23.5 M    /user/datahome/hive_db/datahome.db/ods_dim_weixin_accounts
+23.5 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_source_type_summary_h
+23.5 K    /user/datahome/hive_db/datahome.db/ods_dim_getui_city_tag_info
+23.5 K    /user/datahome/hive_db/datahome.db/ods_dim_getui_city_tag_code_info
+23.5 G    /user/datahome/hive_db/datahome.db/ods_fact_24news_push_info
+23.3 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_device_gender_age_article_summary_30d_gaoyy_20190401
+23.3 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_article_summary_m
+22.8 M    /user/datahome/hive_db/datahome.db/ods_dim_24news_cas_inmediapublish
+22.7 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_m_dg
+22.3 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_summary_m
+22.0 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_account_invite_detail
+21.9 K    /user/datahome/hive_db/datahome.db/ods_fact_weixin_department_data
+21.8 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_checksystem_user_summary_m_stage
+21.8 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_article_summary_d_wxg
+21.7 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_m_dg
+21.4 M    /user/datahome/hive_db/datahome.db/ods_dim_hybase_jtquality_article_info
+21.4 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_help_group_summary_m
+21.2 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_article_propagation_summary_3m_history
+21.0 M    /user/datahome/hive_db/datahome.db/ods_dim_wangmai_bas_media_product
+21.0 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_w_dg
+21.0 K    /user/datahome/hive_db/datahome.db/edm_fact_rs_product_summary_h
+20.8 M    /user/datahome/hive_db/datahome.db/gaoyy_20191224
+20.7 M    /user/datahome/hive_db/datahome.db/dim_cs_zjxw_bf730_article_info_mi
+20.7 G    /user/datahome/hive_db/datahome.db/ods_fact_sensors_sessions_session_default_his
+20.4 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_ipcity_summary_d
+20.2 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_recommend_article_score
+20.2 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_w_dg
+19.7 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_funnel_summary_m
+19.6 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_funnel_summary_1d_dg
+19.5 G    /user/datahome/hive_db/datahome.db/ods_dim_ps_account_association_info
+19.4 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_digital_newspaper_article_summary_d
+19.4 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_summary_m_stage
+19.4 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_school_summary_m_his_gaoyy
+19.0 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_log_article_summary_h
+19.0 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_recommend_click_rate
+19.0 K    /user/datahome/hive_db/datahome.db/ods_fact_hybase_hot_point_event_info_gaoyy
+18.8 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_push_token_info
+18.7 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_collect_di
+18.7 G    /user/datahome/hive_db/datahome.db/ods_fact_wangmai_bas3_cvevent_xugz_20190417
+18.6 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_m_dg
+18.4 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_8
+18.3 G    /user/datahome/hive_db/datahome.db/ods_fact_wangmai_bas3_cvevent_temp
+18.0 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_m_dg
+17.9 K    /user/datahome/hive_db/datahome.db/dim_report_new_media_product_mf
+17.5 G    /user/datahome/hive_db/datahome.db/edm_fact_getui_user_json_info
+17.4 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_article_summary_m_history
+17.3 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_2
+17.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_systype_summary_1d_dg
+16.9 M    /user/datahome/hive_db/datahome.db/ods_dim_hybase_power_relation_data
+16.9 K    /user/datahome/hive_db/datahome.db/ods_dim_getui_user_tag_code_info_new
+16.8 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_project_info
+16.8 K    /user/datahome/hive_db/datahome.db/edm_fact_spd_product_summary_m
+16.6 M    /user/datahome/hive_db/datahome.db/edm_cfmc_article_summary_m
+16.5 M    /user/datahome/hive_db/datahome.db/edw_fact_cs_article_cas_inmediapublish_h_history
+16.4 K    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_channel_info_dis
+16.4 K    /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_video
+16.4 G    /user/datahome/hive_db/datahome.db/ods_dim_ps_account_info
+16.1 G    /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmdocsharerel_2_0
+16.0 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_10
+15.9 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_7
+15.8 K    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_w_dg
+15.7 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_ua_di
+15.6 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_column_summary_w
+15.5 G    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_push_token_info
+15.5 G    /user/datahome/hive_db/datahome.db/dwd_zbjt_zjxw_app_event_read_di
+15.2 M    /user/datahome/hive_db/datahome.db/ods_fact_24news_column_statstic_daily
+15.0 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_m_dg
+14.9 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_help_summary_m
+14.5 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_d
+14.4 M    /user/datahome/hive_db/datahome.db/dim_cfmc_article_info_mi
+14.4 K    /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_1
+14.3 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_behavior_compute_h
+14.3 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_office_summary_m
+14.2 K    /user/datahome/hive_db/datahome.db/edm_fact_tmy_channel_summary_w
+14        /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_download_channel_systype_summary_3d_dg
+14        /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_download_channel_systype_summary_3d
+14        /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_download_channel_systype_summary_1d_dg
+14        /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_download_channel_systype_summary_1d
+14.0 K    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_keyword_blacklist
+13.9 M    /user/datahome/hive_db/datahome.db/ods_cs_wangmai_propagation_cas_reporters_df
+13.6 M    /user/datahome/hive_db/datahome.db/ods_fact_cs_content_cloud_tongji_wx_user_read_tmy
+13.6 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_column_summary_w_test
+13.5 M    /user/datahome/hive_db/datahome.db/ods_dim_24news_system_channel_xugz_test
+13.5 K    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_zjxw_county_summary_m
+13.3 M    /user/datahome/hive_db/datahome.db/ods_tmy_t_share_record_df
+13.3 G    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_article_summary_d
+13.3 G    /user/datahome/hive_db/datahome.db/edm_fact_24news_article_summary_w
+13.2 M    /user/datahome/hive_db/datahome.db/edw_dim_cs_zjxw_article_info_bf730
+13.1 M    /user/datahome/hive_db/datahome.db/ods_dim_zjxw_column_class
+13.1 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_devicemodel_summary_w
+13.1 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_fan_follow
+13.1 G    /user/datahome/hive_db/datahome.db/edm_fact_24news_article_summary_h
+13        /user/datahome/hive_db/datahome.db/hive_to_mysql_8_0_20
+13.0 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_sf_account_article_detail_w
+13.0 M    /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_collect_di
+12.9 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_d
+12.8 K    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_summary_m
+12.3 K    /user/datahome/hive_db/datahome.db/ods_dim_zbjt_user_fancy_degree_table
+12.3 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_ugc_article_info
+12.2 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_baijia_and_toutiao_article_list
+12.2 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_fusion_media_article_summary_m
+12.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_city_summary_w_dg
+11.9 M    /user/datahome/hive_db/datahome.db/edm_fact_24news_column_summary_w
+11.8 M    /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weixin_account_summary_d
+11.7 M    /user/datahome/hive_db/datahome.db/ods_dim_weibo_accounts
+11.7 G    /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_user_unread_article_info
+11.6 G    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_nearline_article_summary_h
+11.4 K    /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmchnldoc_2_0_stage
+11.4 G    /user/datahome/hive_db/datahome.db/edm_fact_24news_recommend_alsmodel
+11.2 G    /user/datahome/hive_db/datahome.db/ods_dim_xsb_channel_article
+11.1 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_sf_account_summary_w
+11.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_channel_system_summary_d
+11.0 M    /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_h
+11.0 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_article_summary_m_dg
+11.0 M    /user/datahome/hive_db/datahome.db/edm_fact_tmxw_sf_account_pull_new_detail_w
+11.0 G    /user/datahome/hive_db/datahome.db/edm_fact_24h_active_account_group_article_summary_d
+10.9 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_1d
+10.9 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_summary_w
+10.6 M    /user/datahome/hive_db/datahome.db/ods_dim_dc_wx_account
+10.6 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_video_summary_m
+10.6 K    /user/datahome/hive_db/datahome.db/itemFactors
+10.5 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_video_summary_m
+10.4 M    /user/datahome/hive_db/datahome.db/ods_dim_cs_report_fusion_media_article_detail_list
+10.4 G    /user/datahome/hive_db/datahome.db/ods_dim_tmxw_channel_article_info
+10.3 M    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_w_dg
+10.2 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_channel_article_threeday_summary_w_dg
+10.2 M    /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_channel_article_threeday_summary_w_dg
+10.1 M    /user/datahome/hive_db/datahome.db/edw_dim_zjxw_push_notify_d
+10.1 K    /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_county_summary_m_dg
+10.1 K    /user/datahome/hive_db/datahome.db/edm_fact_24news_summary_m
+9.9 M     /user/datahome/hive_db/datahome.db/edm_cfmc_article_influence_m
+9.9 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_m_dg
+9.9 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_read_di
+9.8 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_1d
+9.6 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_unread_article_info_filter
+9.6 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_w
+9.4 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_w
+9.3 M     /user/datahome/hive_db/datahome.db/ods_fact_hybase_hot_point_event_info
+9.3 K     /user/datahome/hive_db/datahome.db/test_xu
+9.1 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_office_info
+9.1 M     /user/datahome/hive_db/datahome.db/ods_dim_24news_nearline_article
+9.1 G     /user/datahome/hive_db/datahome.db/ods_fact_sensors_sessions_session_default_1_his
+9.1 G     /user/datahome/hive_db/datahome.db/ods_dim_cas_cas_inmediapublish_mf_5
+8.8 M     /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmsharecategory
+8.8 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_cloud_weixin_account_summary_d
+8.6 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_m_dg
+8.6 G     /user/datahome/hive_db/datahome.db/ods_dim_tmxw_account_extension
+8.5 M     /user/datahome/hive_db/datahome.db/ods_dim_mcn_pgc_pub_article_stage
+8.5 M     /user/datahome/hive_db/datahome.db/edm_fact_xb_list_data_w
+8.5 K     /user/datahome/hive_db/datahome.db/edm_fact_product_web_summary_m
+8.5 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_article_summary_m
+8.5 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_article_summary_m
+8.4 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_video_summary_m
+8.4 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_1d
+8.4 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_active_account_group_article_summary_d
+8.4 G     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_merge
+8.4 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_m
+8.3 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_w_dg
+8.3 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_article_summary_m
+8.1 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_m_dg
+8.1 G     /user/datahome/hive_db/datahome.db/ods_tmxw_active_vote_record_di
+8         /user/datahome/hive_db/datahome.db/test_lifecycle_1d_gaoyy2
+8         /user/datahome/hive_db/datahome.db/mimotable
+7.9 M     /user/datahome/hive_db/datahome.db/ods_hive_table_metadata
+7.9 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_readtask_index
+7.9 M     /user/datahome/hive_db/datahome.db/edm_fact_rs_cfou_user_article_similar_jiacx_20190402
+7.9 G     /user/datahome/hive_db/datahome.db/ods_tmy_xwcmfgd_df
+7.8 M     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_keyword_blacklist_article_info
+7.8 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_result
+7.8 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_website_summary_w
+7.8 G     /user/datahome/hive_db/datahome.db/ods_fact_data_quality_result
+7.7 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_donwload_channel_systype_summary_7d
+7.7 K     /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_live
+7.4 M     /user/datahome/hive_db/datahome.db/edm_fact_checksystem_group_summary_m_his
+7.4 G     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appcommondevicemapping
+7.4 G     /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmfgd
+7.3 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_m
+7.2 M     /user/datahome/hive_db/datahome.db/ods_tmy_xwcmtenant_df
+7.2 M     /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_summary_d
+7.1 M     /user/datahome/hive_db/datahome.db/ods_fact_cs_content_cloud_tongji_wx_user_summary_tmy
+7.0 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_eventtype_summary_w_dg
+6.9 M     /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmsharecategory_2_0
+6.9 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_download_channel_systype_summary_3d
+6.9 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_content_city_channel_summary_1d
+6.9 G     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_article_summary_w
+6.8 M     /user/datahome/hive_db/datahome.db/user_fancy_jiacx_20190402
+6.8 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_download_channel_systype_summary_1d
+6.8 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_donwload_channel_systype_retention_summary_d
+6.8 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_m_dg
+6.7 M     /user/datahome/hive_db/datahome.db/ods_test_tmp
+6.6 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_unread_article_keywords
+6.5 M     /user/datahome/hive_db/datahome.db/ods_fact_yg_app_user_index
+6.5 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_m_dg
+6.5 M     /user/datahome/hive_db/datahome.db/edw_fact_24news_recommend_click_rate
+6.5 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_office_summary_m_his_gaoyy
+6.5 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_summary_m
+6.4 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_article_summary_m
+6.4 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_summary_m
+6.4 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_article_info
+6.4 G     /user/datahome/hive_db/datahome.db/edw_dim_getui_user_tag_detail_info
+6.2 M     /user/datahome/hive_db/datahome.db/ods_fact_xb_day_list_data_history
+6.2 G     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_final
+6.2 G     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_user_info
+6.1 M     /user/datahome/hive_db/datahome.db/ods_dim_weixin_data_fx
+6.1 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_hot_point_h
+6.1 M     /user/datahome/hive_db/datahome.db/edm_fact_tmy_tenant_summary_d
+5.9 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_article_summary_w
+5.9 G     /user/datahome/hive_db/datahome.db/ods_tmxw_active_tm_users_di
+5.9 G     /user/datahome/hive_db/datahome.db/edw_dim_getui_user_tag_info
+5.8 K     /user/datahome/hive_db/datahome.db/ods_dim_cs_report_excel_tianmu_publish_system_account
+5.8 G     /user/datahome/hive_db/datahome.db/ods_tmy_xwcmfgduser_df
+5.8 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_active_device
+5.7 M     /user/datahome/hive_db/datahome.db/ods_dim_tmxw_web_link
+5.7 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_content_city_channel_summary_1d
+5.7 G     /user/datahome/hive_db/datahome.db/edm_fact_xb_article_fx_d
+5.7 G     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_summary_w
+5.6 M     /user/datahome/hive_db/datahome.db/dim_cfmc_mlf_article_info_mi
+5.6 K     /user/datahome/hive_db/datahome.db/ods_dim_dh_black_list
+5.6 K     /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary_w
+5.6 G     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_score_order
+5.5 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_report_mlf_zb_reporter_list
+5.5 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_channel
+5.5 M     /user/datahome/hive_db/datahome.db/edw_fact_tmxw_sv_rs_article_score_h
+5.5 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_article_info_m
+5.5 K     /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_subject
+5.4 G     /user/datahome/hive_db/datahome.db/edm_fact_dmp_persona_account_summary_w
+5.3 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_readtask
+5.3 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_summary_1d
+5.3 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_summary_m
+5.2 M     /user/datahome/hive_db/datahome.db/ods_dim_weixin_users
+5.2 K     /user/datahome/hive_db/datahome.db/edm_fact_tmy_channel_summary_m
+5.2 G     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appdevicemapping
+5.1 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weibo_account_summary_d
+5.1 K     /user/datahome/hive_db/datahome.db/ods_mlf2_xwcmviewinfo_df
+5.0 M     /user/datahome/hive_db/datahome.db/edm_dim_zjxw_rs_user_fancy_degree_table_1_11
+5.0 M     /user/datahome/hive_db/datahome.db/dim_cs_propagation_article_info_mi
+5.0 K     /user/datahome/hive_db/datahome.db/ods_fact_casma_propagation_article_info_stage
+5.0 G     /user/datahome/hive_db/datahome.db/edm_fact_xg_web_article_summary_1d
+4.9 M     /user/datahome/hive_db/datahome.db/usersim_jiacx_20190402
+4.9 M     /user/datahome/hive_db/datahome.db/usersim_20190402
+4.9 M     /user/datahome/hive_db/datahome.db/ods_tmxw_active_vote_subject_di
+4.9 M     /user/datahome/hive_db/datahome.db/ods_fact_weixin_num_data
+4.9 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_jtcpk_product_tag
+4.9 M     /user/datahome/hive_db/datahome.db/edm_dim_zjxw_rs_user_user_similarity_1_11
+4.9 K     /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_0_6
+4.9 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_3d
+4.8 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_behavior_summary_h
+4.7 G     /user/datahome/hive_db/datahome.db/ods_fact_recommend_log
+4.7 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_unread_article_info
+4.6 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_result_stage_d
+4.6 G     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appcommondevicemapping_stage
+4.5 M     /user/datahome/hive_db/datahome.db/ods_fact_weibo_num_data
+4.5 M     /user/datahome/hive_db/datahome.db/ods_dim_dc_xb_account
+4.5 K     /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_custom
+4.5 K     /user/datahome/hive_db/datahome.db/ods_dim_dh_article_publish_time_config
+4.5 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_city_summary_m_dg
+4.4 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_sailing_alsmodel
+4.4 K     /user/datahome/hive_db/datahome.db/ods_dim_xsb_mpid_tenant_info
+4.4 K     /user/datahome/hive_db/datahome.db/edm_fact_rs_product_summary_w
+4.4 G     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_sensors_users_his
+4.3 M     /user/datahome/hive_db/datahome.db/ods_mushu_article_explode_mf
+4.3 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_summary_w_dg
+4.3 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_web_event_ua_di
+4.2 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_website_summary_m
+4.1 M     /user/datahome/hive_db/datahome.db/ods_dim_yg_app_index
+4.1 M     /user/datahome/hive_db/datahome.db/edw_fact_cs_article_cas_inmediapublish_m
+4.1 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_devicemodel_summary_m
+4.1 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_channel_summary_d
+4.1 K     /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_activity
+4.0 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_column_summary_m
+4.0 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_funnel_summary_w_dg
+4.0 G     /user/datahome/hive_db/datahome.db/edw_dim_24h_active_account_group_info
+3.9 M     /user/datahome/hive_db/datahome.db/ods_hive_table_alarm
+3.9 M     /user/datahome/hive_db/datahome.db/ods_fact_douyin_cs_report_douyin_video_list_w
+3.9 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_w
+3.9 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_ipcity_summary_w
+3.9 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_web_event_read_di
+3.8 M     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_keyword_blacklist_article_info_stage
+3.8 K     /user/datahome/hive_db/datahome.db/ods_wangmai_bas_appcustomvisitormapping_temp
+3.8 G     /user/datahome/hive_db/datahome.db/ods_dim_24news_reporter_help
+3.8 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_web_event_ua_di
+3.8 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_web_event_read_di
+3.6 G     /user/datahome/hive_db/datahome.db/edm_fact_cs_cangnan_user_summary_m_his_gaoyy
+3.5 M     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_basmg_bas_tenant
+3.5 M     /user/datahome/hive_db/datahome.db/ods_dim_cs_cangnan_readtask_index_time
+3.5 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_column_summary_m_test
+3.5 K     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_rank_type_info
+3.5 K     /user/datahome/hive_db/datahome.db/edm_dim_zjxw_user_fancy_degree_table_1_6
+3.4 T     /user/datahome/hive_db/datahome.db/ods_fact_wangmai_bas3_cvevent
+3.4 M     /user/datahome/hive_db/datahome.db/ods_xsb_tenant_info_df
+3.4 G     /user/datahome/hive_db/datahome.db/edm_fact_24news_article_summary_m
+3.3 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_download_channel_system_summary_d
+3.3 M     /user/datahome/hive_db/datahome.db/dim_xsb_tenant_info_df
+3.3 G     /user/datahome/hive_db/datahome.db/ods_wangmai_bas_appcvevent_temp
+3.3 G     /user/datahome/hive_db/datahome.db/ods_fact_mushu_article_explode_m_5
+3.3 G     /user/datahome/hive_db/datahome.db/edm_fact_rs_article_summary_d
+3.2 M     /user/datahome/hive_db/datahome.db/ods_dim_tmxw_channel_info
+3.2 K     /user/datahome/hive_db/datahome.db/edm_fact_data_quality_result_gaoyy
+3.2 G     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_rs_based_on_location_recommend
+3.2 G     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_web_article_summary_m
+3.1 M     /user/datahome/hive_db/datahome.db/ods_fact_douyin_cs_report_douyin_video_list_m
+3.1 M     /user/datahome/hive_db/datahome.db/ods_fact_dc_wx_user_data
+3.1 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_1d_gaoyy_20180801
+3.1 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_summary_w_dg
+3.1 G     /user/datahome/hive_db/datahome.db/dim_24news_article_df
+3.0 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_server_summary_d
+3.0 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_hotwords_summary_1d_dg
+3.0 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_keyword_summary_d
+3.0 G     /user/datahome/hive_db/datahome.db/ods_mlf2_xwcmexternalpubdocrecord_df
+2.9 M     /user/datahome/hive_db/datahome.db/zjxw_rs_sailing_blw
+2.9 M     /user/datahome/hive_db/datahome.db/edm_fact_24news_column_summary_m
+2.9 K     /user/datahome/hive_db/datahome.db/edm_dim_zjxw_user_fancy_degree_table_0_6
+2.9 G     /user/datahome/hive_db/datahome.db/edw_fact_24news_user_article_summary_3d
+2.8 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_register_summary_w_dg
+2.8 G     /user/datahome/hive_db/datahome.db/ods_fact_casma_cas_articleceiresultperformance_m_5
+2.7 T     /user/datahome/hive_db/datahome.db/ods_dim_mcn_pgc_pub_article
+2.7 M     /user/datahome/hive_db/datahome.db/recommend_zjxw_article_score_num6
+2.7 M     /user/datahome/hive_db/datahome.db/ods_wangmai_bas_appdevicemapping_temp
+2.7 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_hotwords_summary_w_dg
+2.6 M     /user/datahome/hive_db/datahome.db/recommend_zjxw_article_score
+2.6 M     /user/datahome/hive_db/datahome.db/ods_dim_xsb_channel_info
+2.6 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_product_summary_w
+2.6 M     /user/datahome/hive_db/datahome.db/dim_city_article_info_nli_stage
+2.6 K     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_24news_summary_m
+2.6 K     /user/datahome/hive_db/datahome.db/edm_fact_24news_reporter_help_summary_m
+2.6 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_article_summary_m
+2.6 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_article_summary_m
+2.6 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_like_di
+2.5 M     /user/datahome/hive_db/datahome.db/ods_dim_tmxw_topiclabel_article
+2.5 M     /user/datahome/hive_db/datahome.db/edm_fact_24news_channel_summary_d
+2.5 M     /user/datahome/hive_db/datahome.db/edm_dds_product_summary_1d
+2.5 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_1d
+2.5 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_article_summary_1d
+2.5 G     /user/datahome/hive_db/datahome.db/edw_fact_24news_article_summary_3d
+2.4 M     /user/datahome/hive_db/datahome.db/ods_dim_24news_channel_info
+2.4 M     /user/datahome/hive_db/datahome.db/edm_fact_24news_department_summary_d
+2.4 G     /user/datahome/hive_db/datahome.db/ods_fact_tmxw_score_order
+2.4 G     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_article_subject_group
+2.3 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_article_info_stage
+2.2 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_device_gender_age_article_summary_30d_jiacx_20190326
+2.2 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_device_gender_age_article_summary_30d_gaoyy_20190326
+2.2 M     /user/datahome/hive_db/datahome.db/edm_fact_xsb_tenant_summary_m
+2.2 K     /user/datahome/hive_db/datahome.db/edm_fact_rs_product_summary_m
+2.2 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_user_transform_summary_1d
+2.1 T     /user/datahome/hive_db/datahome.db/ods_fact_wangmai_app_log
+2.1 T     /user/datahome/hive_db/datahome.db/ods_dim_mcn_pgc_article
+2.1 T     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_red_boat_article_info
+2.1 M     /user/datahome/hive_db/datahome.db/ods_tmy_wcmmetatablepaper_df_stage
+2.1 M     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_basapp_bas_app
+2.1 M     /user/datahome/hive_db/datahome.db/edw_dim_hybase_hot_point_status_info
+2.1 M     /user/datahome/hive_db/datahome.db/edm_fact_xsb_tenant_summary_w
+2.0 M     /user/datahome/hive_db/datahome.db/ods_fact_dc_wb_user_data
+2.0 M     /user/datahome/hive_db/datahome.db/edm_fact_xsb_tenant_summary_d
+2.0 K     /user/datahome/hive_db/datahome.db/usernumarticlenumdegreemodeldf_1_1
+1.9 M     /user/datahome/hive_db/datahome.db/ods_dim_weixin_department
+1.9 M     /user/datahome/hive_db/datahome.db/dim_city_article_info_nli
+1.9 G     /user/datahome/hive_db/datahome.db/ods_mlf2_xwcmcommuser_df
+1.9 G     /user/datahome/hive_db/datahome.db/ods_fact_hybase_mcb_log_search_info
+1.9 G     /user/datahome/hive_db/datahome.db/ods_dim_hybase_product_formal_recommend_info
+1.9 G     /user/datahome/hive_db/datahome.db/edm_fact_xb_article_fx_m
+1.8 M     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_account_info_stage
+1.8 M     /user/datahome/hive_db/datahome.db/ods_dim_hybase_jtcpg_article_info_zzb
+1.8 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_summary_h
+1.8 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_server_summary_d
+1.8 M     /user/datahome/hive_db/datahome.db/article_info_gaoyy_201903011
+1.8 M     /user/datahome/hive_db/datahome.db/article_info_gaoyy_20190301
+1.8 K     /user/datahome/hive_db/datahome.db/ods_stock_info_xugz
+1.8 K     /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary_m
+1.8 G     /user/datahome/hive_db/datahome.db/ods_tmy_t_article_df
+1.8 G     /user/datahome/hive_db/datahome.db/ods_dim_24news_user_info
+1.7 M     /user/datahome/hive_db/datahome.db/ods_dim_yg_app_user_index
+1.7 M     /user/datahome/hive_db/datahome.db/ods_dim_weixin_roles
+1.7 M     /user/datahome/hive_db/datahome.db/ods_dim_tmxw_web_link_category
+1.7 M     /user/datahome/hive_db/datahome.db/edw_dim_cs_share_article_info_bf1200
+1.7 K     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_check_result_stage_w
+1.6 M     /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_article_summary_h
+1.6 M     /user/datahome/hive_db/datahome.db/dws_pub_product_1d
+1.6 G     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appcustomvisitormapping
+1.6 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_article_keywords_info
+1.6 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_forward_di
+1.5 M     /user/datahome/hive_db/datahome.db/ods_tmy_xwcmviewinfo_df
+1.5 M     /user/datahome/hive_db/datahome.db/ods_dim_mcn_ugc_article_stage
+1.5 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_article_summary_h
+1.5 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_article_summary_d
+1.5 M     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_county_channel_summary_w
+1.5 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weixin_account_summary_w
+1.5 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_content_city_channel_article_summary_w
+1.5 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_user_unread_article_info_filter
+1.5 G     /user/datahome/hive_db/datahome.db/edw_fact_24news_article_summary_d
+1.4 T     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log
+1.4 M     /user/datahome/hive_db/datahome.db/ods_fact_yg_trade_index
+1.4 M     /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmgroup
+1.4 M     /user/datahome/hive_db/datahome.db/ods_24news_reporter_help_group_df
+1.4 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_wm_county_channel_summary_w
+1.4 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_check_result
+1.4 K     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_alsmodel_metrics
+1.4 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_sailing_device_article_summary_30d
+1.4 G     /user/datahome/hive_db/datahome.db/edw_dim_24news_user_info
+1.4 G     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_article_summary_m
+1.4 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_tmxw_app_event_comment_di
+1.3 M     /user/datahome/hive_db/datahome.db/ods_fact_xb_week_list_data_history
+1.3 M     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_web_link
+1.3 M     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_app_county_channel_summary_w
+1.3 M     /user/datahome/hive_db/datahome.db/edw_fact_cs_report_digital_editor_department_original_article_summary_m
+1.3 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_network_summary_d
+1.3 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_24news_channel_summary_m
+1.3 G     /user/datahome/hive_db/datahome.db/ods_dim_mlf_xwcmidmapping_2_0
+1.3 G     /user/datahome/hive_db/datahome.db/ods_dim_hybase_jtcpg_article_info
+1.3 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_user_keywords_weighted
+1.3 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_article_author_info
+1.3 G     /user/datahome/hive_db/datahome.db/edm_fact_dmp_db_account_summary_d
+1.3 G     /user/datahome/hive_db/datahome.db/edm_fact_dds_original_article_reproduce_detail_info_d
+1.3 G     /user/datahome/hive_db/datahome.db/edm_fact_24news_nearline_recommend_h
+1.2 T     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_user_action_log
+1.2 M     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_rank_type_info
+1.2 M     /user/datahome/hive_db/datahome.db/ods_dim_ps_client_info
+1.2 M     /user/datahome/hive_db/datahome.db/ods_dim_hybase_product_formal_recommend_info_gaoyy
+1.2 M     /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_article_summary_h_gaoyy_3day
+1.2 M     /user/datahome/hive_db/datahome.db/edm_fact_xsb_article_summary_d
+1.2 G     /user/datahome/hive_db/datahome.db/edw_dim_tmxw_nearline_article_info
+1.1 M     /user/datahome/hive_db/datahome.db/ods_fact_douyin_cs_report_douyin_account_list_w
+1.1 M     /user/datahome/hive_db/datahome.db/ods_dim_hybase_hot_point_status_info
+1.1 M     /user/datahome/hive_db/datahome.db/edm_fact_tmy_app_product_summary_d
+1.1 G     /user/datahome/hive_db/datahome.db/edw_dim_tmxw_article_info_history
+1.1 G     /user/datahome/hive_db/datahome.db/edm_fact_zjxw_article_summary_1d_dg
+1.1 G     /user/datahome/hive_db/datahome.db/dwd_zbjt_24news_app_event_forward_di
+1.0 T     /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_stag
+1.0 T     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_red_boat_content
+1.0 M     /user/datahome/hive_db/datahome.db/edm_fact_tmxw_ipcity_summary_m
+1.0 M     /user/datahome/hive_db/datahome.db/edm_fact_cs_content_local_weixin_account_summary_m
+1.0 G     /user/datahome/hive_db/datahome.db/ods_dim_zjxw_nearline_article_content
+1.0 G     /user/datahome/hive_db/datahome.db/ods_dim_wangmai_appdevicemapping_dg
+1.0 G     /user/datahome/hive_db/datahome.db/edw_fact_zjxw_rs_log_device_article_summary_h
+1.0 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_mid_article_info_current_day
+1.0 G     /user/datahome/hive_db/datahome.db/edw_dim_zjxw_rs_article_info_current_day
+0         /user/datahome/hive_db/datahome.db/zjxw_log_count_from_hbase
+0         /user/datahome/hive_db/datahome.db/zjxw_log_article_summary_from_hbase
+0         /user/datahome/hive_db/datahome.db/xu_test
+0         /user/datahome/hive_db/datahome.db/test_lifecycle_1d
+0         /user/datahome/hive_db/datahome.db/test_lifecycle_1
+0         /user/datahome/hive_db/datahome.db/test_lifecycle
+0         /user/datahome/hive_db/datahome.db/ods_xsb_log_from_hbase_gaoyy
+0         /user/datahome/hive_db/datahome.db/ods_xsb_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_vote_subject
+0         /user/datahome/hive_db/datahome.db/ods_vote_record
+0         /user/datahome/hive_db/datahome.db/ods_vote
+0         /user/datahome/hive_db/datahome.db/ods_tm_users
+0         /user/datahome/hive_db/datahome.db/ods_mic_winning_record
+0         /user/datahome/hive_db/datahome.db/ods_mic_winners
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_stag_temp
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_pv_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_prev_from_hbase_xugz
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_from_hbase_zzb
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_from_hbase_zhou
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_zjxw_log_dev_from_hbase_xugz
+0         /user/datahome/hive_db/datahome.db/ods_fact_ypt_activity_log_test_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_ypt_activity_log_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_ypt_activity_log_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_ypt_activity_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_ym_iphone_summary_d
+0         /user/datahome/hive_db/datahome.db/ods_fact_ym_android_summary_d
+0         /user/datahome/hive_db/datahome.db/ods_fact_xsb_log_from_hbase_zhou
+0         /user/datahome/hive_db/datahome.db/ods_fact_xsb_log_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_xsb_log_from_hbase_gaoyy
+0         /user/datahome/hive_db/datahome.db/ods_fact_xsb_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_xsb_log_from_hbas
+0         /user/datahome/hive_db/datahome.db/ods_fact_wm_web_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_wm_app_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_wangmai_bas3_cvevent_di_temp
+0         /user/datahome/hive_db/datahome.db/ods_fact_tmxw_log_from_hbase_zhou
+0         /user/datahome/hive_db/datahome.db/ods_fact_tmxw_log_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_tmxw_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_tmxw_article_summary_table
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensors_users_nearline_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensors_events_nearline_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensors_events_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensors_events_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensors_events_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensor_events_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensor_events_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_sensor_events_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_recommend_log_from_hbase_zhouzb
+0         /user/datahome/hive_db/datahome.db/ods_fact_recommend_log_from_hbase_gaoyy
+0         /user/datahome/hive_db/datahome.db/ods_fact_recommend_log_from_hbase_current
+0         /user/datahome/hive_db/datahome.db/ods_fact_recommend_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_fact_product_article_summary_table
+0         /user/datahome/hive_db/datahome.db/ods_fact_casma_department_completion_info_stage
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_reporter_help_reporter_statstic
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_reporter_help_behavior_log
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_points_detail
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_test_from_hbase_zhou
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_test_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase_zhou
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase_test_xu
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase_test
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase_current_day
+0         /user/datahome/hive_db/datahome.db/ods_fact_24news_log_from_hbase
+0         /user/datahome/hive_db/datahome.db/ods_dim_zjxw_red_boat_content_stage
+0         /user/datahome/hive_db/datahome.db/ods_dim_zjxw_rank_record_info
+0         /user/datahome/hive_db/datahome.db/ods_dim_zjxw_ml_article_keywords
+0         /user/datahome/hive_db/datahome.db/ods_dim_zjxw_comment_info
+0         /user/datahome/hive_db/datahome.db/ods_dim_zjxw_active_account_group_info
+0         /user/datahome/hive_db/datahome.db/ods_dim_xsb_columns_info
+0         /user/datahome/hive_db/datahome.db/ods_dim_xsb_article_topic
+0         /user/datahome/hive_db/datahome.db/ods_dim_weixin_article_fx_yh_all_stage
+0         /user/datahome/hive_db/datahome.db/ods_dim_tmxw_article_metadata_df
+0         /user/datahome/hive_db/datahome.db/ods_dim_mlf_wxwcmdocsharerel
+0         /user/datahome/hive_db/datahome.db/ods_dim_mlf_wcmmetatablereleasesource_gaoyy
+0         /user/datahome/hive_db/datahome.db/ods_dim_cs_report_neican_lable_list_m
+0         /user/datahome/hive_db/datahome.db/ods_dim_cs_report_impot_art_category_com_relation_list_mf_5
+0         /user/datahome/hive_db/datahome.db/ods_dim_24news_device_info
+0         /user/datahome/hive_db/datahome.db/ods_dim_24news_channel_article
+0         /user/datahome/hive_db/datahome.db/gaoyy_test
+0         /user/datahome/hive_db/datahome.db/gaoyy
+0         /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_log_accoout_article_summary_h
+0         /user/datahome/hive_db/datahome.db/edw_fact_tmxw_rs_alsmodel_metrics
+0         /user/datahome/hive_db/datahome.db/edw_fact_app_article_summary_1d
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_mlf_channel_info
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_comment_info
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_client_user_info
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_client_session_info
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_client_device_info
+0         /user/datahome/hive_db/datahome.db/edw_dim_zjxw_article_info_df
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_sailing_rs_tag_content_region_result
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_article_summary_w
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_rs_article_summary_m
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_red_boat_column_summary_1d
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_red_boat_article_summary_30d
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_red_boat_article_summary_14d
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_qndxhd_user_tag_detail_info
+0         /user/datahome/hive_db/datahome.db/edm_fact_zjxw_checksystem_school_summary_m_stage
+0         /user/datahome/hive_db/datahome.db/edm_fact_tmy_web_product_summary_w
+0         /user/datahome/hive_db/datahome.db/edm_fact_tmy_web_product_summary_m
+0         /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_w_zzb
+0         /user/datahome/hive_db/datahome.db/edm_fact_tmxw_tmmark_summary_m_zzb
+0         /user/datahome/hive_db/datahome.db/edm_fact_tmxw_high_quality_article_summary_d
+0         /user/datahome/hive_db/datahome.db/edm_fact_sensors_summary_d
+0         /user/datahome/hive_db/datahome.db/edm_fact_sensors_summary_7d
+0         /user/datahome/hive_db/datahome.db/edm_fact_sensors_summary_30d
+0         /user/datahome/hive_db/datahome.db/edm_fact_rs_channel_summary_zzb
+0         /user/datahome/hive_db/datahome.db/edm_fact_rs_cfou_user_article_similar_filled_jiacx_20190402
+0         /user/datahome/hive_db/datahome.db/edm_fact_dds_product_summary_d
+0         /user/datahome/hive_db/datahome.db/edm_fact_cs_content_zjxw_summary_m
+0         /user/datahome/hive_db/datahome.db/edm_fact_cs_content_24news_summary_m
+0         /user/datahome/hive_db/datahome.db/edm_fact_24news_nearline_recommend_article_score
+0         /user/datahome/hive_db/datahome.db/edm_cfmc_summary_m
+0         /user/datahome/hive_db/datahome.db/dwd_zbjt_zswl_app_event_read_di
+0         /user/datahome/hive_db/datahome.db/dwd_zbjt_zswl_app_event_like_di
+0         /user/datahome/hive_db/datahome.db/dwd_zbjt_zswl_app_event_forward_di
+0         /user/datahome/hive_db/datahome.db/dwd_zbjt_zswl_app_event_comment_di
+0         /user/datahome/hive_db/datahome.db/dwd_zbjt_zswl_app_event_collect_di
